@@ -1,6 +1,6 @@
 # The Fighters Game #
 
-** What is the main functionality of the fighters game? **
+**What is the main functionality of the fighters game?**
 
 The fighters game involves the user/users picking 2 fighter characters 
 at the start of the game, then the fighters will take turns in dealing
